@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 n = int(input("> "))
 a = 1
 b = 1
@@ -14,10 +8,6 @@ if a < n:
         a += 1
         b *= (i+1)
         cal += "x" + str(a)
-
-
-# In[ ]:
-
 
 
 
