@@ -1,3 +1,2 @@
-# class_calculate
-calculate class
-It's a calculator to calculate the class value of whatever number we input!
+# Factorial_calculate
+It's a calculator to calculate the factorial value of whatever number we input!
